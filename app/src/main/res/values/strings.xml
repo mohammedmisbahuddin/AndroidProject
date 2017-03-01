@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Buss Pass Validator</string>
+    <string name="OR"> OR </string>
+</resources>
